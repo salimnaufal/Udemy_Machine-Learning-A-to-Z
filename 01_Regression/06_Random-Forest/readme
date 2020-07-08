@@ -1,0 +1,4 @@
+Machine Learning model and dataset for predicting salary of a certain position/role using Multiple Random Forest algorithm.
+
+Features : Position/Level
+Dependent Variable : Salary
