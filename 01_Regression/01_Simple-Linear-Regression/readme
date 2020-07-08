@@ -1,0 +1,4 @@
+Machine Learning model and dataset for predicting salary based on work experience using Simple Linear Regression algorithm.
+
+Feature : Work experience in years
+Dependent Variable : Salary
