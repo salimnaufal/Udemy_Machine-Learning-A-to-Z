@@ -1,0 +1,5 @@
+Machine Learning model and dataset for predicting whether or not a buyer will buy a new car model using Deicision Tree Classification algorithm.
+The model will be deployed for advertisement in social network (that's why the dataset name is "Social_Network_ads.csv").
+
+Features : The age and salary of previous prospective buyers
+Dependent Variable : Purchase history (0 : did not purchase previous car model, 1 : purchased previous car model)
