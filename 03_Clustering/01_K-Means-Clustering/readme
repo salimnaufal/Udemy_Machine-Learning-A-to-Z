@@ -1,0 +1,5 @@
+Machine Learning model and dataset for mall customers segmentation using K Means Clustering algorithm.
+
+The Dataset "Mall_Customer.csv" has 5 features (CustomerID, Genre, Annual Income, Customer Spending Score),
+but for the purpose of result visualization, the implemented code will only be using 2 features (Annual Income and Customer Spending Score).
+It is because it will be easier to display the resulting clustered data in 2 Dimension plot.
